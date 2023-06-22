@@ -40,13 +40,13 @@
 <li>Como importar bibliotecas</li>
 <li>Documentação: acessando ajuda</li>
 <li>Importando o dataset do projeto</li>
-<li><h4>Tipos de dados</h4><li>
+<li><h4>Tipos de dados</h4><li/>
 <li>Variáveis qualitativas ordinais</li>
 <li>Variáveis qualitativas nominais</li>
 <li>Variáveis quantitativas discretas</li>
 <li>Variáveis quantitativas contínuas</li>
 <li>Classificação de uma variável</li>
-<ul>
+</ul>
 
 <h3>DISTRIBUIÇÃO DE FREQUÊNCIAS</h3>
 <ul>
@@ -77,7 +77,7 @@
 <li>Relação entre média, mediana e moda</li>
 </ul>
 
-<h3>MEDIDAS SEPARATRIZES<h3>
+<h3>MEDIDAS SEPARATRIZES</h3>
 <ul>
 <li>Quartis</li>
 <li>Decis</li>
@@ -85,18 +85,20 @@
 <li>Box-plot</li>
 </ul>
 
-<h3>MEDIDAS DE DISPERSÃO<h3>
+<h3>MEDIDAS DE DISPERSÃO</h3>
 <ul>
 <li>Desvio médio absoluto</li>
 <li>Variância</li>
 <li>Desvio padrão</li>
 </ul>
 
+<br>
+
 <p align="justify">Foram utilizados três arquivos para desenvolver o projeto:</p>
 <ul>
 <li><strong>Análise_Descritiva.ipynb</strong>: arquivo contendo o projeto final do curso</li>
 <li><strong>curso-estatistica-r.ipynb</strong>: arquivo utilizado durante as aulas</li>
-<li><strong>dados.csv<strong>: arquivo contendo a base de dados utilizada na análise</li>
+<li><strong>dados.csv</strong>: arquivo contendo a base de dados utilizada na análise</li>
 </ul>
 
 ###
@@ -131,11 +133,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-![snake gif](https://github.com/ccampa896/ccampa896/blob/output/github-contribution-grid-snake.gif)
 
 ###
