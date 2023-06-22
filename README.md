@@ -136,7 +136,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ccampa896/ccampa896/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ccampa896/ccampa896/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
